@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5JrbcVqxylVzVOBJWpEZ2CZ7cixbCWjOykJBPE4qTnU=",
+  "Hash": "oUWm/Fo/ABikaZl6QxjGJuv5AlV+FbhZ/K05J0Z53oc=",
   "Source": "blazor_zaliczenie",
   "BasePath": "_content/blazor_zaliczenie",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "blazor_zaliczenie\\wwwroot",
       "Source": "blazor_zaliczenie",
-      "ContentRoot": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\",
       "BasePath": "_content/blazor_zaliczenie",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\obj\\Debug\\net7.0\\scopedcss\\bundle\\blazor_zaliczenie.styles.css",
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\obj\\Debug\\net7.0\\scopedcss\\bundle\\blazor_zaliczenie.styles.css",
       "SourceId": "blazor_zaliczenie",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/blazor_zaliczenie",
       "RelativePath": "blazor_zaliczenie.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\obj\\Debug\\net7.0\\scopedcss\\bundle\\blazor_zaliczenie.styles.css"
+      "OriginalItemSpec": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\obj\\Debug\\net7.0\\scopedcss\\bundle\\blazor_zaliczenie.styles.css"
     },
     {
-      "Identity": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\blazor_zaliczenie.bundle.scp.css",
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\blazor_zaliczenie.bundle.scp.css",
       "SourceId": "blazor_zaliczenie",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/blazor_zaliczenie",
       "RelativePath": "blazor_zaliczenie.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\blazor_zaliczenie.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\blazor_zaliczenie.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "blazor_zaliczenie",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\",
       "BasePath": "_content/blazor_zaliczenie",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "blazor_zaliczenie",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\",
       "BasePath": "_content/blazor_zaliczenie",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "blazor_zaliczenie",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\",
       "BasePath": "_content/blazor_zaliczenie",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "blazor_zaliczenie",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\",
       "BasePath": "_content/blazor_zaliczenie",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "blazor_zaliczenie",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\",
       "BasePath": "_content/blazor_zaliczenie",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "blazor_zaliczenie",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\",
       "BasePath": "_content/blazor_zaliczenie",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "blazor_zaliczenie",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\",
       "BasePath": "_content/blazor_zaliczenie",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "blazor_zaliczenie",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\",
       "BasePath": "_content/blazor_zaliczenie",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "blazor_zaliczenie",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\",
       "BasePath": "_content/blazor_zaliczenie",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "blazor_zaliczenie",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\",
       "BasePath": "_content/blazor_zaliczenie",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "blazor_zaliczenie",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\",
       "BasePath": "_content/blazor_zaliczenie",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\css\\site.css",
       "SourceId": "blazor_zaliczenie",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\",
       "BasePath": "_content/blazor_zaliczenie",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\favicon.png",
       "SourceId": "blazor_zaliczenie",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\adria\\source\\repos\\adrianj21\\blazor_zaliczenie\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\adrianj21\\blazor_zaliczenie2\\wwwroot\\",
       "BasePath": "_content/blazor_zaliczenie",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
